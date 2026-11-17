@@ -1,15 +1,15 @@
 {
     "schema":  3,
     "channel":  "stable",
-    "version":  "2.0.10",
+    "version":  "2.0.11",
     "platform":  "windows-x64",
-    "released_at":  "2026-11-17T09:13:23Z",
-    "notes":  "Aggiornate funzionalità di traduzione AI con installazione CLI se mancante",
+    "released_at":  "2026-11-17T15:54:50Z",
+    "notes":  "Aggiornamento traduzione AI Claude/ChatGPT",
     "artifact":  {
-                     "url":  "https://github.com/RedescoProgettiSoftware/PWA_Release/releases/download/v2.0.10/VerbaleIspezione-2.0.10-win-x64.viupdate",
-                     "filename":  "VerbaleIspezione-2.0.10-win-x64.viupdate",
-                     "size":  29080100,
-                     "sha256":  "37534267432904afc5a81a2b993296346dc87a3231510607f0eda0deeedde2f6",
+                     "url":  "https://github.com/RedescoProgettiSoftware/PWA_Release/releases/download/v2.0.11/VerbaleIspezione-2.0.11-win-x64.viupdate",
+                     "filename":  "VerbaleIspezione-2.0.11-win-x64.viupdate",
+                     "size":  29092900,
+                     "sha256":  "5b18b6f5dc0e1ea925de818a7f5816c11d27e38cd5f086a433e1cf3398571a85",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "verbale-ispezione-508e5672c919bd13"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "AfUwSoi89j9yZ6/3Y42B+/T6nosbt1A45zjqREzlZ8L1ZIxedssri0jD6LEIPMJOkIBrjZaQsoG/KwdtZGBNDA=="
+                                       "value":  "job8Ccijmoq4tBM4iwaVSD3pvLpWGBfMnYTyWOtXQvJSpet+xE8otLpo8itAl89qcY73yQ26CvUJ4MvGY0XuBw=="
                                    }
                  }
 }
