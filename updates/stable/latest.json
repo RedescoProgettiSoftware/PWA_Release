@@ -1,15 +1,15 @@
 {
     "schema":  3,
     "channel":  "stable",
-    "version":  "2.0.8",
+    "version":  "2.0.9",
     "platform":  "windows-x64",
-    "released_at":  "2026-11-17T08:07:44Z",
+    "released_at":  "2026-11-17T08:19:48Z",
     "notes":  "Aggiornate funzionalità di traduzione AI",
     "artifact":  {
-                     "url":  "https://github.com/RedescoProgettiSoftware/PWA_Release/releases/download/v2.0.8/VerbaleIspezione-2.0.8-win-x64.viupdate",
-                     "filename":  "VerbaleIspezione-2.0.8-win-x64.viupdate",
-                     "size":  29071908,
-                     "sha256":  "7d81782a28e9a772d9aefcd3e93441861e662394410be34376a1c31a069c4a14",
+                     "url":  "https://github.com/RedescoProgettiSoftware/PWA_Release/releases/download/v2.0.9/VerbaleIspezione-2.0.9-win-x64.viupdate",
+                     "filename":  "VerbaleIspezione-2.0.9-win-x64.viupdate",
+                     "size":  29072420,
+                     "sha256":  "a6808edb223fdaf5c524d27cbe75f64ad1409f7da7a4d296d3d0f308b90b56e4",
                      "encryption":  {
                                         "algorithm":  "AES-256-GCM",
                                         "key_id":  "verbale-ispezione-508e5672c919bd13"
@@ -17,7 +17,7 @@
                      "signature":  {
                                        "algorithm":  "Ed25519",
                                        "scope":  "artifact-v1",
-                                       "value":  "HIOqmXfOtnegILqSEG8WfTtCxipWr8NiQWCmCG/LTsfreoX+rUQOcPeuKkofI8DzQcgTGxgb672swSkNifaXCQ=="
+                                       "value":  "ZVJFkBI/Fv0jSvFPcAl8GhK5sCfGGsPg3l7wdrIbB1VtOxbUeEg5KSP3EoBBeyMl2aDuH+l92h3bY2oGiQ02Aw=="
                                    }
                  }
 }
